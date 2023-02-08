@@ -2,9 +2,9 @@
 This repository contains code and data to conduct MR analysis.
 # Pipeline
 - Select instruments
-    - Significantly associated with exposure: P < 5 × 10^-8^
+    - Significantly associated with exposure: P < 5 × 10E-8
     - PLINK clump: r2 > 0.01, window < 10kb
-    - Exclude SNPs directly associated with outcome: P < 5 × 10^-8^
+    - Exclude SNPs directly associated with outcome: P < 5 × 10E-8
     - Harmonize allele
     - RadialMR: exclude outlier pleiotropic SNPs
     - calculate F statistics and exclude SNPs with F < 10
