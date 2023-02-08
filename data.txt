@@ -1,6 +1,0 @@
-smoke_initiation: download from https://static-content.springer.com/esm/art%3A10.1038%2Fs41588-018-0307-5/MediaObjects/41588_2018_307_MOESM3_ESM.xlsx
-RA: rheumatoid arthritis download from https://www.decode.com/summarydata/
-
-Reference: 
-[1] Liu Mingsson T. et al. Association studies of up to 1.2 million individuals yield new insights into the genetic etiology of tobacco and alcohol use.
-[2] Saevarsdottir S. et al. Multi-omics analysis of rheumatoid arthritis yields sequence variants that have large effects on risk of the seropositive subset.
